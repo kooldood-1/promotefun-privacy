@@ -30,7 +30,7 @@ If you edit one, edit the other. The URL the bot shows to members is the
 
 ## Before this counts as published
 
-- [ ] `privacy@promote.fun` accepts mail, or the address in section 8 is changed
+- [ ] `king@promote.fun` accepts mail, or the address in section 8 is changed
       to one that does
 - [ ] The retention periods in section 5 match what the bot actually does
 - [ ] The third parties in section 4 are still the ones receiving data
